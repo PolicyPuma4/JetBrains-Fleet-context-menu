@@ -7,7 +7,7 @@ Official repository https://github.com/PolicyPuma4/JetBrains-Fleet-context-menu
 App which adds JetBrains Fleet context menu entries to Windows Explorer
 
 ## How do I install this app?
-1. Download the latest executable (file ending with .exe) from the [latest release](https://github.com/PolicyPuma4/JetBrains-Fleet-context-menu/releases/latest)
+1. Download the latest executable [here](https://github.com/PolicyPuma4/JetBrains-Fleet-context-menu/releases/latest/download/JetBrains.Fleet.context.menu_Unicode_64.exe)
 1. Run the executable
 1. Enjoy the context menu entries! 🥳
 
