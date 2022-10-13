@@ -15,6 +15,7 @@ App which adds JetBrains Fleet context menu entries to Windows Explorer
 ![Directory background](Example%20background.png)
 ![Directory](Example%20folder.png)
 ![File](Example%20file.png)
+![Apps](Example%20apps.png)
 
 ## How do I compile this app?
 1. Download and install the [latest version of AutoHotkey](https://www.autohotkey.com/download/ahk-install.exe)
